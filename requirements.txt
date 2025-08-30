@@ -1,3 +1,7 @@
+pip>=24.0
+setuptools>=65.0
+wheel
+
 Django==5.0.6
 Pillow==10.3.0
 python-decouple==3.8
